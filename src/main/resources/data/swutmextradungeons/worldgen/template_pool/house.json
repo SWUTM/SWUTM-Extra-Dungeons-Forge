@@ -1,0 +1,20 @@
+{
+
+  "name": "swutmextradungeons:house",
+
+  "fallback": "minecraft:empty",
+
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+
+        "location": "swutmextradungeons:house",
+
+        "processors": "swutmextradungeons:randomize_stonebrick",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

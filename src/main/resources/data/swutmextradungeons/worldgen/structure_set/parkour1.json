@@ -1,0 +1,21 @@
+{
+  "structures": [
+    {
+      "structure": "swutmextradungeons:parkour1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 53490798,
+
+    "spacing": 30,
+
+    "separation": 20,
+
+    "type": "minecraft:random_spread",
+
+    "exclusion_zone": {
+
+    }
+  }
+}
